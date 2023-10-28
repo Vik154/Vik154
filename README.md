@@ -1,15 +1,15 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 ### :fire: My Stats :
-<a href="https://github.com/Vik154/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik154&repo=github-readme-stats" />
+<a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=holi-theme&background=000000" />
 </a>
 <a href="https://github.com/Vik154/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik154&repo=convoychat" />
 </a>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=holi-theme&background=000000&card_height=300)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=compact&theme=holi-theme&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=holi-theme&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=compact&theme=holi-theme&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Карточка профиля: 
