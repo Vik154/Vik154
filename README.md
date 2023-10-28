@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td><img src=[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=dark&background=000000)](https://git.io/streak-stats)></td>
+    <td><p>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=dark&background=000000)](https://git.io/streak-stats)</p></td>
     <td></td>
   </tr>
 </table>
