@@ -1,14 +1,26 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 ### :fire: My Stats :
-<tb>
-  <tr>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=dark&background=000000)](https://git.io/streak-stats
-  </tr>
-  <tr>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  </tr>
-</tb>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=dark&background=000000)](https://git.io/streak-stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vik154&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vik154&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vik154&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vik154&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vik154&theme=solarized_dark)
 
 
 <!--
