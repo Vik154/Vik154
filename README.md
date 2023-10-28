@@ -1,15 +1,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=holi-theme&background=000000" />
-</a>
-<a href="https://github.com/Vik154/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik154&repo=convoychat" />
-</a>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=holi-theme&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=compact&theme=github_dar)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=holi-theme&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Карточка профиля: 
