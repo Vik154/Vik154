@@ -1,9 +1,4 @@
-# Тест заголовка
-## Тест заголовка
-### Тест заголовка
-#### Тест заголовка
-##### Тест заголовка
-###### Тест заголовка
+### :hammer_and_wrench: Languages and Tools :
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=dark&background=000000)](https://git.io/streak-stats)
