@@ -1,7 +1,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=holi-theme&background=000000&card_width=300)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=compact&theme=holi-theme)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=holi-theme&background=000000&card_height=300)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=compact&theme=holi-theme)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Карточка профиля: 
