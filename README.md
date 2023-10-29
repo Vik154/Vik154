@@ -21,6 +21,8 @@
 ![Top Langs](https://raw.githubusercontent.com/Vik154/github-stats-transparent/output/generated/overview.svg)
 ![Top Langs](https://raw.githubusercontent.com/Vik154/github-stats-transparent/output/generated/languages.svg)
 
+![](https://raw.githubusercontent.com/Vik154/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Vik154/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
 ### :fire: My Stats :
