@@ -16,7 +16,7 @@
   <img src="Icons/TECH_GIT.png" title="GIT" alt="GIT" width="48" height="48"/>
 
   <div>
-    <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/3-stats.svg">
+    <img src="https://raw.githubusercontent.com/Vik154/github-profile-summary-cards-example/master/profile-summary-card-output/react/3-stats.svg">
   </div>
 
   <picture>
