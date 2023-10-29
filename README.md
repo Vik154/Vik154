@@ -16,6 +16,7 @@
   <img src="Icons/TECH_GIT.png" title="GIT" alt="GIT" width="48" height="48"/>
 
   <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vik154&theme=react">
     <img src="https://raw.githubusercontent.com/Vik154/github-profile-summary-cards-example/master/profile-summary-card-output/react/3-stats.svg">
   </div>
 
