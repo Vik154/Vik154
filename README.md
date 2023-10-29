@@ -18,11 +18,13 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Vik154&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/Vik154/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Vik154/github-stats-transparent/output/generated/languages.svg)
+![Top Langs](https://raw.githubusercontent.com/Vik154/github-stats-transparent/output/generated/overview.svg)
+![Top Langs](https://raw.githubusercontent.com/Vik154/github-stats-transparent/output/generated/languages.svg)
 
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=holi-theme&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=compact&theme=github_dark&line_height=35)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=holi-theme&background=000000)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=compact&theme=github_dark&line_height=35)](https://github.com/anuraghazra/github-readme-stats)
 
