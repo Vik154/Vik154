@@ -26,13 +26,7 @@
 
 <!-- ЗМЕЙКА -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Vik154/Vik154/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vik154/Vik154/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vik154/Vik154/blob/output/github-contribution-grid-dark-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vik154/Vik154/blob/output/github-contribution-grid-snake.svg">
   <img alt="Shows shake" src="https://github.com/Vik154/Vik154/blob/output/github-contribution-grid-snake.svg">
 </picture>
