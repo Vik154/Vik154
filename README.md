@@ -18,7 +18,7 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vik154&theme=holi-theme&background=000000&hide_rank=true)](https://git.io/streak-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vik154&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=donut&theme=github_dark&line_height=35)](https://github.com/anuraghazra/github-readme-stats)
 
