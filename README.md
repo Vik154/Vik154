@@ -20,7 +20,7 @@
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vik154&theme=github_dark" />
     </a>
     <a href="https://github.com/Vik154/convoychat">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vik154&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vik154&layout=compact&langs_count=8&card_width=320&theme=github_dark&rank_icon=github" />
     </a>
   </div>
 
