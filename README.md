@@ -12,11 +12,9 @@
   <img src="Icons/TECH_DOTNET.svg" title=".NET" alt=".NET" width="48" height="48"/>&nbsp;
   <img src="Icons/TECH_Linux.svg" title="Linux" alt="Linux" width="48" height="48"/>&nbsp;
   <img src="Icons/TECH_Mongodb.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>&nbsp;
-  <img src="Icons/TECH_Mysql.svg" title="SQL" alt="SQL" width="48" height="48"/>&nbsp;
-  <img src="Icons/TECH_Sqlite.svg" title="SQLite" alt="SQLite" width="48" height="48"/>&nbsp;
+  <img src="Icons/TECH_SQLSERVER.png" title="SQL" alt="SQL" width="48" height="48"/>&nbsp;
+  <img src="Icons/TECH_Github.svg" title="GIT" alt="GIT" width="48" height="48"/>&nbsp;
   <img src="Icons/TECH_Opengl.svg" title="OpenGL" alt="OpenGL" width="48" height="48"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
