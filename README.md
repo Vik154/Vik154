@@ -15,6 +15,10 @@
   <img src="Icons/TECH_SQL.png" title="SQL" alt="SQL" width="48" height="48"/>&nbsp;
   <img src="Icons/TECH_GIT.png" title="GIT" alt="GIT" width="48" height="48"/>
 
+  <div>
+    ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/3-stats.svg)
+  </div>
+
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Vik154&show_icons=true&theme=dark"
