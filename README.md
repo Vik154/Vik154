@@ -16,6 +16,12 @@
   <img src="Icons/TECH_GIT.png" title="GIT" alt="GIT" width="48" height="48"/>
 
   <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
     <img width="300" heigth="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=compact&theme=github_dark">
     <img width="400" heigth="300" src="https://github-readme-stats.vercel.app/api?username=Vik154&theme=github_dark&show_icons=true">
     <img width="300" heigth="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vik154&theme=react">
