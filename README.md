@@ -16,9 +16,9 @@
   <img src="Icons/TECH_GIT.png" title="GIT" alt="GIT" width="48" height="48"/>
 
   <div>
+    <img width="300" heigth="300" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vik154&theme=react">
     <img width="300" heigth="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vik154&theme=react">
     <img width="300" heigth="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vik154&theme=react&utcOffset=7">
-    <img width="300" heigth="300" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vik154&theme=react&exclude=java">
   </div>
 
   <picture>
