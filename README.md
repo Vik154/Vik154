@@ -1,5 +1,5 @@
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="Icons/TECH_CS.png" title="C#" alt="C#"/>&nbsp;
   <img src="Icons/TECH_CPP.png" title="C++" alt="C++"/>&nbsp;
   <img src="Icons/TECH_C.png" title="C" alt="C"/>&nbsp;
