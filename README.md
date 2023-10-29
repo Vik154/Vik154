@@ -10,15 +10,12 @@
   <img src="Icons/TECH_CSS.png" title="CSS" alt="CSS"/>&nbsp;
   <img src="Icons/TECH_NETCORE.png" title="ASP.NET Core" alt="ASP.NET Core"/>&nbsp;
   <img src="Icons/TECH_DOTNET.svg" title=".NET" alt=".NET" width="48" height="48"/>&nbsp;
-
-
+  <img src="Icons/TECH_Linux.svg" title="Linux" alt="Linux" width="48" height="48"/>&nbsp;
+  <img src="Icons/TECH_Mongodb.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>&nbsp;
+  <img src="Icons/TECH_Mysql.svg" title="SQL" alt="SQL" width="48" height="48"/>&nbsp;
+  <img src="Icons/TECH_Sqlite.svg" title="SQLite" alt="SQLite" width="48" height="48"/>&nbsp;
+  <img src="Icons/TECH_Opengl.svg" title="OpenGL" alt="OpenGL" width="48" height="48"/>&nbsp;
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  
-
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
