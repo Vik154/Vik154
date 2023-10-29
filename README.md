@@ -4,7 +4,7 @@
   <img src="Icons/TECH_CPP.png" title="C++" alt="C++"/>&nbsp;
   <img src="Icons/TECH_C.png" title="C" alt="C"/>&nbsp;
   <img src="Icons/TECH_Python.png" title="Python" alt="Python"/>&nbsp;
-  <img src="Icons/TECH_LUA.png" title="LUA" alt="LUA"/>&nbsp;
+  <img src="Icons/TECH_LUA.png" title="LUA" alt="LUA" width="48" height="48"/>&nbsp;
   <img src="Icons/TECH_Javascript.png" title="Javascript" alt="Javascript"/>&nbsp;
   <img src="Icons/TECH_HTML.png" title="HTML" alt="HTML"/>&nbsp;
   <img src="Icons/TECH_CSS.png" title="CSS" alt="CSS"/>&nbsp;
