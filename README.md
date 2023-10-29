@@ -8,8 +8,8 @@
   <img src="Icons/TECH_Javascript.png" title="Javascript" alt="Javascript"/>&nbsp;
   <img src="Icons/TECH_HTML.png" title="HTML" alt="HTML"/>&nbsp;
   <img src="Icons/TECH_CSS.png" title="CSS" alt="CSS"/>&nbsp;
-    <img src="Icons/TECH_NETCORE.png" title="ASP.NET Core" alt="ASP.NET Core"/>&nbsp;
-    <img src="Icons/TECH_CSS.png" title="CSS" alt="CSS"/>&nbsp;
+  <img src="Icons/TECH_NETCORE.png" title="ASP.NET Core" alt="ASP.NET Core"/>&nbsp;
+  <img src="Icons/TECH_DOTNET.svg" title=".NET" alt=".NET"/>&nbsp;
 
 
   
