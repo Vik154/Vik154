@@ -1,6 +1,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="Icons/TECH_CPP.png"/>&nbsp;
+  <img src="Icons/TECH_CS.png" title="C#" alt="C#"/>&nbsp;
+  <img src="Icons/TECH_CPP.png" title="C++" alt="C++"/>&nbsp;
+  <img src="Icons/TECH_C.png" title="C" alt="C"/>&nbsp;
 
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CS" alt="CS" width="40" height="40"/>&nbsp;
