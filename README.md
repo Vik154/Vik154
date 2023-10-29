@@ -13,7 +13,7 @@
   <img src="Icons/TECH_Linux.svg" title="Linux" alt="Linux" width="48" height="48"/>&nbsp;
   <img src="Icons/TECH_Mongodb.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>&nbsp;
   <img src="Icons/TECH_SQL.png" title="SQL" alt="SQL" width="48" height="48"/>&nbsp;
-  <img src="Icons/TECH_GIT.svg" title="GIT" alt="GIT" width="48" height="48"/>&nbsp;
+  <img src="Icons/TECH_GIT.png" title="GIT" alt="GIT" width="48" height="48"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
