@@ -19,6 +19,12 @@
     <a href="https://github.com/Vik154/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vik154&theme=github_dark" />
     </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+    
     <a href="https://github.com/Vik154/convoychat">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langsusername=Vik154&layout=compact&langs_count=8&card_width=320" />
     </a>
