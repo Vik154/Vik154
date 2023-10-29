@@ -19,14 +19,19 @@
     <a href="https://github.com/Vik154/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vik154&theme=github_dark" />
     </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height=200 align="center" 
+        src="https://github-readme-stats.vercel.app/api/top-langsusername=Vik154&layout=compact&langs_count=8&card_width=320" />
+    </a>
+  </div>
+
+
+<!-- 
     <img width="300" heigth="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=compact&theme=github_dark">
     <img width="400" heigth="300" src="https://github-readme-stats.vercel.app/api?username=Vik154&theme=github_dark&show_icons=true">
     <img width="300" heigth="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vik154&theme=react">
     <img width="300" heigth="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vik154&theme=react&utcOffset=7">
-  </div>
+
 
   <picture>
   <source
@@ -39,9 +44,10 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Vik154&show_icons=true" />
 </picture>
+-->
+
 </div>
 
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vik154&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik154&layout=donut&theme=github_dark&line_height=35)](https://github.com/anuraghazra/github-readme-stats)
 
