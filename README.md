@@ -15,9 +15,11 @@
   <img src="Icons/TECH_SQL.png" title="SQL" alt="SQL" width="48" height="48"/>&nbsp;
   <img src="Icons/TECH_GIT.png" title="GIT" alt="GIT" width="48" height="48"/>
   <div align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vik154&layout=compact&langs_count=8&card_width=320&
-                                        theme=github_dark&hide_border=true&locale=ru&custom_title=Часто%20используемые%20языки" />&nbsp;
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vik154&theme=github_dark&rank_icon=github&hide_border=true&locale=ru&custom_title=Статистика%20GitHub" />
   </div>
 </div>
 
+<!--
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vik154&layout=compact&langs_count=8&card_width=320&
+                                        theme=github_dark&hide_border=true&locale=ru&custom_title=Часто%20используемые%20языки" />&nbsp;
+-->
