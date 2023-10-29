@@ -14,7 +14,6 @@
   <img src="Icons/TECH_Mongodb.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>&nbsp;
   <img src="Icons/TECH_SQL.png" title="SQL" alt="SQL" width="48" height="48"/>&nbsp;
   <img src="Icons/TECH_GIT.png" title="GIT" alt="GIT" width="48" height="48"/>
-</div>
 <hr/>
 <div align="center">
   <a href="https://github.com/Vik154/convoychat">
@@ -23,5 +22,6 @@
   <a href="https://github.com/Vik154/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vik154&theme=github_dark&rank_icon=github&hide_border=true&locale=ru&custom_title=Статистика%20GitHub" />
   </a>
+</div>
 </div>
 
