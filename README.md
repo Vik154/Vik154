@@ -17,6 +17,7 @@
 
   <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vik154&theme=react">
+    <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/4-productive-time.svg">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vik154&theme=rect&utcOffset=4">
   </div>
 
