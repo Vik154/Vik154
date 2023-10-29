@@ -1,4 +1,4 @@
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты, которые я использую:
 <div align="center">
   <img src="Icons/TECH_CS.png" title="C#" alt="C#"/>&nbsp;
   <img src="Icons/TECH_CPP.png" title="C++" alt="C++"/>&nbsp;
