@@ -24,6 +24,5 @@
   </div>
 </div>
 
-<!--
-
--->
+<!-- ЗМЕЙКА -->
+![Snake animation](https://github.com/Vik154/Vik154/blob/output/github-contribution-grid-snake.svg)
