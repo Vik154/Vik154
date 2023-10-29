@@ -15,8 +15,7 @@
   <img src="Icons/TECH_SQL.png" title="SQL" alt="SQL" width="48" height="48"/>&nbsp;
   <img src="Icons/TECH_GIT.png" title="GIT" alt="GIT" width="48" height="48"/>
 </div>
-
-### :fire: Статистика :
+<hr/>
 <div align="center">
   <a href="https://github.com/Vik154/convoychat">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vik154&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_border=true&locale=ru&custom_title=Часто%20используемые%20языки" />
