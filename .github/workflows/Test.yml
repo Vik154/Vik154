@@ -12,7 +12,7 @@ on:
     - main
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -21,11 +21,8 @@ jobs:
         uses: Vik154/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          github_user_name: Vik154
-          outputs: |
-            dist/Build-Metrics.svg
           output_action: commit
-          committer_branch: Vik154-output
+          committer_branch: Vik154-Vik154-output
           committer_message: "chore: update metrics"
 
       - name: Build test template
@@ -36,7 +33,7 @@ jobs:
           outputs: |
             dist/Build-template.svg
           output_action: commit
-          committer_branch: Vik154-output
+          committer_branch: Vik154-Vik154-output
           committer_message: "chore: update metrics classic template"
           base: header, repositories
           plugin_lines: yes
