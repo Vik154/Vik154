@@ -1,3 +1,6 @@
+<picture>
+  <img src="https://github.com/Vik154/Vik154/blob/main//github-metrics.svg" alt="Metrics">
+</picture>
 
 <div align="center">
   <img src="Icons/TECH_CS.png" title="C#" alt="C#"/>&nbsp;
