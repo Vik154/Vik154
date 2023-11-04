@@ -16,6 +16,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: Vik154/metrics@latest
         with:
           token: METRIC
