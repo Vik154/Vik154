@@ -19,4 +19,4 @@ jobs:
     steps:
       - uses: Vik154/metrics@latest
         with:
-          token: METRIC
+          token: ${{ secrets.METRICS_TOKEN }}
