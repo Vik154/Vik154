@@ -1,5 +1,5 @@
 
-<div align="center" style=»background-color: #F1F1F1;>
+<div align="center" style=background-color: #F1F1F1;>
   <img src="Icons/TECH_CS.png" title="C#" alt="C#"/>&nbsp;
   <img src="Icons/TECH_CPP.png" title="C++" alt="C++"/>&nbsp;
   <img src="Icons/TECH_C.png" title="C" alt="C"/>&nbsp;
