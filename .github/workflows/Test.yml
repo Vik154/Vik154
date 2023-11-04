@@ -7,9 +7,9 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  #push:
-  #  branches:
-  #  - main
+  push:
+    branches:
+    - main
 
 jobs:
   github-metrics:
@@ -20,17 +20,19 @@ jobs:
       - name: Build Metrics
         uses: Vik154/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: my-metrics-0.svg
           output_action: commit
           committer_branch: Vik154-metrics_output
           committer_message: "chore: update metrics"
-          filename: my-metrics-0.svg
 
       - name: Build test template
         uses: Vik154/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.classic.svg
+          output_action: commit
           committer_branch: Vik154-metrics_output
           committer_message: "chore: update metrics classic template"
-          token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
