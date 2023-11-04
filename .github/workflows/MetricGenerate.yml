@@ -1,4 +1,5 @@
 name: Metrics
+
 on:
   # Schedule daily updates
   schedule:
