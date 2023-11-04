@@ -22,7 +22,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: commit
-          committer_branch: Vik154-Vik154-output
+          committer_branch: output
           committer_message: "chore: update metrics"
 
       - name: Build test template
@@ -33,7 +33,7 @@ jobs:
           outputs: |
             dist/Build-template.svg
           output_action: commit
-          committer_branch: Vik154-Vik154-output
+          committer_branch: output
           committer_message: "chore: update metrics classic template"
           base: header, repositories
           plugin_lines: yes
