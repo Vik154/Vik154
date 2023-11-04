@@ -21,6 +21,7 @@ jobs:
         uses: Vik154/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: Build-Metrics.svg
           output_action: commit
           committer_branch: output
           committer_message: "chore: update metrics"
@@ -29,9 +30,7 @@ jobs:
         uses: Vik154/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          github_user_name: Vik154
-          outputs: |
-            dist/Build-template.svg
+          filename: Build-template.svg
           output_action: commit
           committer_branch: output
           committer_message: "chore: update metrics classic template"
