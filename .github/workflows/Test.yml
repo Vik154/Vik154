@@ -17,12 +17,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: ♐ Random code snippet - JavaScript or TypeScript snippet of the day
+      - name: Build Metrics
         uses: Vik154/metrics@latest
         with:
+          output_action: commit
+          committer_branch: Vik154-metrics_output
+          committer_message: "chore: update metrics"
+          filename: my-metrics-0.svg
+
+      - name: Build test template
+        uses: Vik154/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          committer_branch: Vik154-metrics_output
+          committer_message: "chore: update metrics classic template"
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_code: 'yes'
-          plugin_code_languages: javascript, typescript
-          plugin_code_load: 400
-          use_mocked_data: 'yes'
-          verify: 'yes'
+          base: header, repositories
+          plugin_lines: yes
