@@ -1,4 +1,4 @@
-name: Metrics
+name: TEST_METRICS
 
 on:
   # Schedule daily updates
